@@ -18,4 +18,7 @@ Head over to the **[Releases]** section on the right and download the latest ver
 1. **Setup.exe:** Installs the app, sets up the autostart, and adds the logo to your start menu.
 2. **Portable .zip:** Just extract the folder and run the `.exe`. No installation required!
 
+# Disclaimer: This is an unofficial, community-made project for personal use. 
+It is not affiliated with, endorsed, or sponsored by Google LLC. All rights to the "Gemini" trademark belong to Google.
+
 And don't ask me for fixes :)
